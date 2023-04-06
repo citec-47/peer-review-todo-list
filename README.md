@@ -35,11 +35,11 @@ git clone [https://github.com/citec-47/To-Do-list-Es6.git](https://github.com/ci
 - Twitter: [@NdonyiMaurice](https://twitter.com/Ndonyi4)
 - LinkedIn: [NdonyiMaurice](https://www.linkedin.com/in/ndonyi-maurice-b5b49b22b/)
 
-👤 **Olivier Kango**
+👤 **Abbas Sarwar**
 
-- GitHub: [@Author]()
-- Twitter: [@Author]()
-- LinkedIn: [@Author]()
+- GitHub: [@AbbasSarwar](https://github.com/AbbasSarwar)
+- Twitter: [@Abbas_sDev](https://twitter.com/Abbas_sDev)
+- LinkedIn: [Abbas-Sarwar](https://www.linkedin.com/in/abbas-sarwar-4a0b16257/)
 
 ## 🤝 Contributing
 
