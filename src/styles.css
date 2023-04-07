@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+}
+
+.main-List-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+  background-color: rgb(235, 235, 235);
+}
+
+.section-List-Items-content {
+  width: 90%;
+  margin-top: 100px;
+  height: auto;
+  background-color: #fff;
+  box-shadow: 10px 10px 10px silver;
+}
+
+.header1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid silver;
+  height: auto;
+}
+
+.header1 h1 {
+  font-size: 28px;
+}
+
+.bi-arrow-return-left {
+  position: relative;
+  right: 20px;
+}
+
+.itemsListToDo {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  gap: 1rem;
+}
+
+.enterListInput {
+  display: flex;
+  height: auto;
+  border-bottom: 1px solid black;
+}
+
+.textValue {
+  min-height: 2em;
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 0 1rem;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.addbtn-El {
+  border: none;
+  outline: none;
+  margin-right: 0.5rem;
+  justify-self: left;
+  background-color: white;
+}
+
+.itemsContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1em;
+  border-bottom: 1px solid black;
+  min-height: 100%;
+  align-items: center;
+  padding: 1em 0;
+}
+
+.doLisstItems {
+  display: flex;
+  justify-content: center;
+  min-width: 35%;
+  height: 2.5em;
+  gap: 0.5em;
+  background-color: rgba(40, 34, 54, 0.473);
+  padding: 0;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.itemClass {
+  height: 1.4em;
+  width: 1.4em;
+  border-radius: 5px;
+  background-color: #16161d;
+}
+
+.findInput {
+  width: 70%;
+  height: 1em;
+  padding: 0.3em;
+}
+
+.completeBtn {
+  width: 100%;
+  font-size: 20px;
+  align-self: center;
+  border: none;
+  font-weight: bolder;
+}
+
+.fa-arrow-turn-down {
+  rotate: 90deg;
+}
+
+/* .fa-file-pen {
+  background: linear-gradient(45deg, #05d6d9, #f907fd);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.fa-trash {
+  background: linear-gradient(-45deg, #05d6d9, #f907fd);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+} */
