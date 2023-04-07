@@ -30,7 +30,7 @@ describe('Testing  update if it is functional', () => {
     <button id='addinBtn'></button>
     <div id='containerItems'></div>
     `;
-  test('Can  remove all completed be true', () => {
+  test('Clear  all completed Items', () => {
     const localListItems = JSON.parse(localStorage.getItem('listStorage'));
     localListItems.pop();
     const newDataEntering = {
