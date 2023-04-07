@@ -46,7 +46,7 @@
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/citec-47/peer-review-todo-list.git"
+    "url": "git+https://github.com/citec-47/peer-review-todo-list.git"
   },
   "bugs": {
     "url": "https://github.com/citec-47/peer-review-todo-list/issues"
